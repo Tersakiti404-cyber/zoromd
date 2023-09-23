@@ -1,5 +1,5 @@
 let handler = async ( m ) => {
-  m.reply('Hello!')
+  m.reply('Halo Felix Is Online!')
 }
 
 handler.command = /^(cek|tes|alive|p|a)$/i

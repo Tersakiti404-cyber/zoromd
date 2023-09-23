@@ -2,8 +2,8 @@
 // [❗]                    [❗]               [❗] 
 //                                                  
 //        |- [ ⚠ ] - CODE CREDITS - [ ⚠ ] -|        
-//          —◉ DEVELOPED BY LUA SER OFC:       
-//       ◉ git : (https://github.com/xxirfanx)        
+//          —◉ DEVELOPED BY EJAAAAA:       
+//       ◉ ig : (https://Instagram.com/mhmdfjralfarizi_)        
 //                                                 
 // [❗]                    [❗]               [❗] 
 // -------------------------------------------------------

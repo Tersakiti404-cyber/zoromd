@@ -34,13 +34,13 @@ handler.all = async function (m) {
 
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/luaserofc",
+            mediaUrl: "https://Instagram.com/mhmdfjralfarizi_",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/luaserofc", 
+            description: "https://Instagram.com/mhmdfjralfarizi_", 
             title: 'Simple Bot Esm',
             body: me,
             thumbnailUrl: pp,
-            sourceUrl: 'http://s.id/luaxyz'
+            sourceUrl: 'https://Instagram.com/mhmdfjralfarizi_'
     }
     } }
 		// Fake 

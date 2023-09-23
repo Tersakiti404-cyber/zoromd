@@ -11,7 +11,7 @@ import moment from 'moment-timezone';
 import fetch from 'node-fetch';
 
 let handler = async (m, { conn, args }) => {
-   let res = await fetch('https://api.github.com/repos/xxirfanx/zoromd')
+   let res = await fetch('https://api.github.com/repos/Tersakiti404-cyber/zoromd')
    let json = await res.json()
    let txt = `							*B O T  -  S C R I P T*\n\n`
       txt += `	◦  *Name* : ${json.name}\n`

@@ -8,10 +8,10 @@ let old = new Date()
 let txt = `∘  *Fetching* : ${((new Date - old) * 1)} ms`
 conn.reply(m.chat, global.wait, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '📤| downloads By Zoro md 🌸',
+title: '📤| Downloaded By Gideon Felix 🌸',
 body: me,
 previewType: 0, thumbnail: thumb2, jpegThumbnail: thumb,
-sourceUrl: 'https://github.com/xxirfanx' }}})
+sourceUrl: 'https://instagram.com/mhmdfjralfarizi_' }}})
 try {
 let p = await fg.tiktok(args[0]) 
 conn.sendFile(m.chat, p.play, 'tiktok.mp4', txt, m)
